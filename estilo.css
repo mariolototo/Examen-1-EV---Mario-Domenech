@@ -33,12 +33,15 @@ article.student{
     text-align: center;
 }
 span.box{
-    text-align: right;
+    float: right;
 }
 footer.pie{
     background-color: lightblue;
 }
 span.mapa{
     
-    padding-left: 500px;
+    padding-left: 650px;
+}
+span.logo{
+    float: left;
 }
