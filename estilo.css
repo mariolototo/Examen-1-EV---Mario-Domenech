@@ -29,3 +29,9 @@ table.tabla{
 p.t1{
     color: blue;
 }
+article.student{
+    text-align: center;
+}
+span.box{
+    text-align: right;
+}
